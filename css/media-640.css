@@ -1,0 +1,43 @@
+.welcome-home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  margin-left: -10px;
+}
+.tech img {
+  display: none;
+}
+
+.tech .icones {
+ margin-top: 180px;
+ width: 400px;
+}
+.home-foot {
+  text-align: center;
+  height: 10vh;
+  margin-top: 50px;
+  font-size: 12px;
+}
+.welcome
+{
+  font-size: 16px;
+}
+.prd img {
+   margin: 20px;
+   width: 400px;
+   margin-left: 100px;
+ }
+#product .imgs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 400px);
+  column-gap: 150px;
+  row-gap: 50px;
+  margin-left: -100px;
+}
+.foot
+{
+  font-size: 14px;
+}

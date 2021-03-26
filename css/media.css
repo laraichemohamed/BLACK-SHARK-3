@@ -1,0 +1,45 @@
+.welcome-home
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+.tech img {
+   width: 400px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   text-align: center;
+   margin-top: -120px;
+   margin-left: 280px;
+   border-radius: 2%;
+ }
+ .tech .icones {
+   font-size: 15px;
+   text-align: center;
+   border: #34a98e 2px solid;
+   width: 250px;
+   margin-top: -340px;
+   margin-left: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+ }
+ .home-foot
+{
+  text-align: center;
+  height: 10vh;
+  margin-top: 50px;
+  font-size: 13px;
+}
+.prd img {
+  margin: 20px;
+  width: 500px;
+  margin-left: 200px;
+}
+
